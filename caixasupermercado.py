@@ -1,4 +1,3 @@
-# Caixa de supermercado (sem try/except)
 soma_total = 0
 contador = 0
 
