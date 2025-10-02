@@ -8,7 +8,7 @@ while contador < quantidade:
     
     if valor < 0:
         print("Valor inválido! Digite um valor positivo.")
-        continue  # volta ao início do loop sem contar nem somar
+        continue  
 
     soma_total += valor
     contador += 1
