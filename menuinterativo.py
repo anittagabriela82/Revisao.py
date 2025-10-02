@@ -1,9 +1,9 @@
-print("---Caixa de banco---")
-print("[1] - SALDO")
-print("[2] - FAZER DEPÓSITO")
-print("[3] - FAZER SAQUE")
-print("[4] - SAIR ") 
 while True:
+        print("---Caixa de banco---")
+        print("[1] - SALDO")
+        print("[2] - FAZER DEPÓSITO")
+        print("[3] - FAZER SAQUE")
+        print("[4] - SAIR ") 
         escolha = input("Selecione uma opção (ou digite 0 para sair):")
         if escolha.isdigit():
          escolha = int(escolha)
